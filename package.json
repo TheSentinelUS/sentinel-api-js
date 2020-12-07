@@ -1,0 +1,20 @@
+{
+  "name": "sentinel-api",
+  "version": "0.0.1",
+  "description": "The official API wrapper for the Sentinel Discord Bot",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheSentinelUS/sentinel-api-js.git"
+  },
+  "license": "EULA"
+}
