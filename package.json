@@ -1,10 +1,10 @@
 {
-  "name": "sentinel-api",
-  "version": "0.0.1",
-  "description": "The official API wrapper for the Sentinel Discord Bot",
+  "name": "thesentinelus-api-js",
+  "version": "1.0.1",
+  "description": "Official JavaScript Wrapper For The Sentinel API",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "axios": "^0.21.0"
@@ -14,7 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheSentinelUS/sentinel-api-js.git"
+    "url": "git+https://github.com/TheSentinelUS/sentinel-api-js.git"
   },
-  "license": "EULA"
+  "keywords": [
+    "sentinel"
+  ],
+  "author": "TheSentinelUS",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/TheSentinelUS/sentinel-api-js/issues"
+  },
+  "homepage": "https://github.com/TheSentinelUS/sentinel-api-js#readme"
 }
