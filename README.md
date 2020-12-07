@@ -24,5 +24,3 @@ client.bans.getInfo(<UserID>).then(banObject => {
 // Note: This endpoint can be accessed by any user and does not 
 // require a Staff Auth Key
 ```
-# sentinel-api-js
-"# sentinel-api-js" 
